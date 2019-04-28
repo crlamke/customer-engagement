@@ -1,3 +1,5 @@
+# NOTE: This is in work and not a complete process. It's not ready for real-world use.
+
 # Customer Engagement Process
 A customer engagement process I'm creating based on my experience working with various companies for a wide range of customers
 
