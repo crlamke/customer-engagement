@@ -1,12 +1,7 @@
-# customer-engagement
-A customer engagement process I'm creating based on my experience working with various companies for a wide range of customers
-Customer Engagement Process
-
-
-## Outline
-Here's what I have so far. 
-
 # Customer Engagement Process
+A customer engagement process I'm creating based on my experience working with various companies for a wide range of customers
+
+Here's what I have so far. 
 
 ## Rules of Thumb
 1. minimize documentation and process
